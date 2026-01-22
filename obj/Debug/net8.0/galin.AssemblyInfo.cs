@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("galin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e0495047e00abfafb98b5654b6b95d01a3b32c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("galin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("galin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
