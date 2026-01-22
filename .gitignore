@@ -52,3 +52,5 @@ PublishProfiles/
 *.sqlite
 *.pdb
 *.cache
+obj/
+bin/
